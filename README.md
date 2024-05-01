@@ -1,2 +1,2 @@
 # DeepSpace
-# built by Adam, Solomon, Olivia, and Kat
+  built by Adam, Solomon, Olivia, and Kat
